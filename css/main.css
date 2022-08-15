@@ -1,0 +1,16 @@
+h1,h2,h3{
+    color: rgb(54, 21, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table{
+    background-color: rgb(249, 243, 238);
+}
+
+li{
+    color: rgb(54, 21, 0);
+}
